@@ -1,6 +1,11 @@
 prettier mirror
 ===============
 
+> The original of this has been archived, and the v4 alphas had some interesting
+> issues. I am purely making a clone of the repo without the v4 alphas so I
+> have something to point pre-commit at.
+
+
 Mirror of prettier package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
